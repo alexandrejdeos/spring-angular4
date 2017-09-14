@@ -1,0 +1,7 @@
+{
+  "/servicos/*": {
+    "target": "http://localhost:8080/angular/",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
